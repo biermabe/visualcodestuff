@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: white;
+    color: #010180;
+}
+
+div {
+    background-color: #3bb3c7;
+    color: white
+}
+
+#ben {
+    background-color: tomato;
+    color: black
+}
+.footnote {
+    color: #5f6070;
+    font-size: 11px;
+}
